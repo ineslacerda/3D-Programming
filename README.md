@@ -4,11 +4,9 @@
 
 Group 1
 
-Inês Lacerda [Nº 86436]
-Jin Xin [Nº 86438]
+Inês Lacerda [Nº 86436], 
+Jin Xin [Nº 86438], 
 Lucas Soares [Nº 86463]
-
-------------------------------------
 
 ------------------------------------
 Implementations:
