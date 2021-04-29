@@ -2,13 +2,13 @@
 	     READ ME
 ####################################
 
-Assignment 1 and Exercises 3 and 4
-
 Group 1
 
 Inês Lacerda [Nº 86436]
 Jin Xin [Nº 86438]
 Lucas Soares [Nº 86463]
+
+------------------------------------
 
 ------------------------------------
 Implementations:
